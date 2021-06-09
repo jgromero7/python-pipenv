@@ -7,7 +7,7 @@ verify_ssl = true
 colorama = "*"
 
 [packages]
-Django = "==2.2.4"
+Django = "==2.2.22"
 
 [requires]
 python_version = "3.6"
